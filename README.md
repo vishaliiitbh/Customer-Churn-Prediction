@@ -25,8 +25,6 @@ Open the app and select "Batch" in the sidebar.
 Upload a CSV file containing customer data.
 Click Predict to see predictions for each customer in the file.
 CSV Format: Ensure your CSV file includes the following columns:
-
-Copy code
 SeniorCitizen, Dependents, tenure, PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, TechSupport, StreamingTV, StreamingMovies, Contract, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges
 🛠️ Technologies Used
 Python: For core scripting and data manipulation.
